@@ -1,0 +1,1 @@
+This is a simple calucaltor that required you to use the basic arithmetic methods / - + *
